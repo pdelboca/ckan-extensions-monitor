@@ -50,7 +50,7 @@ jobs:
     - name: Run tests
       run: |
         cd ckanext-scheming
-        pytest --ckan-ini=test.ini --disable-warnings ckanext/dcat
+        pytest --ckan-ini=test.ini --disable-warnings ckanext/scheming
     - name: Run plugin subclassing tests
       run: |
         cd ckanext-scheming
