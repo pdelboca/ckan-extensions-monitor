@@ -10,6 +10,9 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 - ![ckanext-issues](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-issues/badge.svg)
 - ![ckanext-harvest](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-harvest/badge.svg)
 - ![ckanext-dcat](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-dcat/badge.svg)
+- ![ckanext-geoview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-geoview/badge.svg)
+- ![ckanext-scheming](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-scheming/badge.svg)
+- ![ckanext-saml2auth](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-saml2auth/badge.svg)
 
 
 ### Notes
