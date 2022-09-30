@@ -7,3 +7,4 @@ The main goal is to keep track if the most common CKAN extensions are running ag
 ### Extensions
 
 ![ckanext-sitesearch](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/ckanext-sitesearch.yml/badge.svg)
+![ckanext-xloader](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/ckanext-xloader.yml/badge.svg)
