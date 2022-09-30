@@ -1,6 +1,6 @@
 # CKAN Extensions Monitor
 
-This is a monitor that periodically run the test suite of main CKAN extensions against master.
+This is a monitor that twice a week runs the test suite of main CKAN extensions against master.
 
 ### Status
 
@@ -8,6 +8,7 @@ This is a monitor that periodically run the test suite of main CKAN extensions a
 - ![ckanext-xloader](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-xloader/badge.svg)
 - ![ckanext-pages](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pages/badge.svg)
 - ![ckanext-issues](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-issues/badge.svg)
+- ![ckanext-harvest](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-harvest/badge.svg)
 
 
 ### Notes
