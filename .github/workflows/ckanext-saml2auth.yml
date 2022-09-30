@@ -34,8 +34,8 @@ jobs:
     - name: Clone extension
       run: |
         git clone https://github.com/keitaroinc/ckanext-saml2auth.git
-        apt install xmlsec1
-        apt install rustc cargo
+        sudo apt-get update -qq
+        sudo apt-get install xmlsec1 libxmlsec1-dev
     - name: Install requirements
       run: |
         cd ckanext-saml2auth
