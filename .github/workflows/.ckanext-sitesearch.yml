@@ -29,14 +29,16 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Clone extension
+      run: |
+        git clone https://github.com/okfn/ckanext-sitesearch.git
+        cd ckanext-sitesearch
     - name: Install extension and requirements
       run: |
-        pip install -r "https://raw.githubusercontent.com/okfn/ckanext-sitesearch/main/dev-requirements.txt
-        pip install git+https://github.com/okfn/ckanext-sitesearch.git@main#egg=ckanext-sitesearch
+        pip install -r dev-requirements.txt
+        pip install -e .
     - name: Setup extension
       run: |
-        # Get the extension's test file
-        wget https://raw.githubusercontent.com/okfn/ckanext-sitesearch/main/test.ini
         # Replace default path to CKAN core config file with the one on the container
         sed -i -e 's/use = config:.*/use = config:\/srv\/app\/src\/ckan\/test-core.ini/' test.ini
 
