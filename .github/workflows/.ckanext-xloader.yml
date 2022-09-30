@@ -34,15 +34,17 @@ jobs:
     - name: Clone extension
       run: |
         git clone https://github.com/ckan/ckanext-xloader.git
-        cd ckanext-xloader
     - name: Install extension and requirements
       run: |
+        cd ckanext-xloader
         pip install -r requirements.txt
         pip install -r dev-requirements.txt
         pip install -e .
         pip install --upgrade --no-cache-dir requests[security]
     - name: Setup extension
       run: |
+        cd ckanext-xloader
+
         # Replace default path to CKAN core config file with the one on the container
         sed -i -e 's/use = config:.*/use = config:\/srv\/app\/src\/ckan\/test-core.ini/' test.ini
 
