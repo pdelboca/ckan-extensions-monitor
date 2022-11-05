@@ -33,7 +33,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Clone extension
       run: |
-        git clone https://github.com/okfn/ckanext-showcase.git
+        git clone https://github.com/ckan/ckanext-showcase.git
     - name: Install requirements
       run: |
         cd ckanext-showcase
