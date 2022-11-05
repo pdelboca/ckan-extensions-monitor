@@ -1,4 +1,4 @@
-name: ckanext-spatial
+name: ckanext-googleanalytics
 on:
   push:
   pull_request:
