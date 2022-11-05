@@ -14,7 +14,6 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 - ![ckanext-issues](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-issues/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-issues.yml)
 - ![ckanext-pages](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pages/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-pages.yml)
 - ![ckanext-pdfview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pdfview/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-pdfview.yml)
-- ![ckanext-saml2auth](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-saml2auth/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-saml2auth.yml)
 - ![ckanext-scheming](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-scheming/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-scheming.yml)
 - ![ckanext-showcase](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-showcase/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-showcase.yml)
 - ![ckanext-sitesearch](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-sitesearch/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-sitesearch.yml)
