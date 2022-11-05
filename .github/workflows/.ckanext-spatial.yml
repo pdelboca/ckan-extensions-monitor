@@ -61,10 +61,10 @@ jobs:
           libxml2-dev \
           libxslt-dev \
           python3-dev
-        pip install -r requirements.txt
     - name: Install extension
       run: |
         cd ckanext-spatial
+        pip install -r requirements.txt
         pip install -e .
         # Replace default path to CKAN core config file with the one on the container
         sed -i -e 's/use = config:.*/use = config:\/srv\/app\/src\/ckan\/test-core.ini/' test.ini
