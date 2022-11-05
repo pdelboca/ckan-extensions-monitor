@@ -4,6 +4,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 
 ## Status
 
+- ![ckanext-archiver](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-archiver/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-archiver.yml)
 - ![ckanext-dcat](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-dcat/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-dcat.yml)
 - ![ckanext-geoview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-geoview/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-geoview.yml)
 - ![ckanext-googleanalytics](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-googleanalytics/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-googleanalytics.yml)
