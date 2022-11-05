@@ -4,15 +4,16 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 
 ## Status
 
-- ![ckanext-sitesearch](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-sitesearch/badge.svg)
-- ![ckanext-xloader](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-xloader/badge.svg)
-- ![ckanext-pages](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pages/badge.svg)
-- ![ckanext-issues](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-issues/badge.svg)
-- ![ckanext-harvest](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-harvest/badge.svg)
-- ![ckanext-dcat](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-dcat/badge.svg)
-- ![ckanext-geoview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-geoview/badge.svg)
-- ![ckanext-scheming](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-scheming/badge.svg)
-- ![ckanext-saml2auth](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-saml2auth/badge.svg)
+- ![ckanext-dcat](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-dcat/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-dcat.yml)
+- ![ckanext-geoview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-geoview/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-geoview.yml)
+- ![ckanext-harvest](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-harvest/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-harvest.yml)
+- ![ckanext-issues](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-issues/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-issues.yml)
+- ![ckanext-pages](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pages/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-pages.yml)
+- ![ckanext-pdfview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pdfview/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-pdfview.yml)
+- ![ckanext-saml2auth](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-saml2auth/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-saml2auth.yml)
+- ![ckanext-scheming](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-scheming/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-scheming.yml)
+- ![ckanext-sitesearch](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-sitesearch/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-sitesearch.yml)
+- ![ckanext-xloader](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-xloader/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-xloader.yml)
 
 
 ## Notes
