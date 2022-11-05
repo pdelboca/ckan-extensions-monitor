@@ -10,6 +10,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 - ![ckanext-geoview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-geoview/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-geoview.yml)
 - ![ckanext-googleanalytics](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-googleanalytics/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-googleanalytics.yml)
 - ![ckanext-harvest](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-harvest/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-harvest.yml)
+- ![ckanext-hierarchy](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-hierarchy/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-hierarchy.yml)
 - ![ckanext-issues](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-issues/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-issues.yml)
 - ![ckanext-pages](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pages/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-pages.yml)
 - ![ckanext-pdfview](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-pdfview/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-pdfview.yml)
