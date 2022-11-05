@@ -14,6 +14,7 @@ This is a monitor that twice a week runs the test suite of main CKAN extensions 
 - ![ckanext-qa](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-qa/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-qa.yml)
 - ![ckanext-saml2auth](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-saml2auth/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-saml2auth.yml)
 - ![ckanext-scheming](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-scheming/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-scheming.yml)
+- ![ckanext-showcase](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-showcase/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-showcase.yml)
 - ![ckanext-sitesearch](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-sitesearch/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-sitesearch.yml)
 - ![ckanext-spatial](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-spatial/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-spatial.yml)
 - ![ckanext-xloader](https://github.com/pdelboca/ckan-extensions-monitor/workflows/ckanext-xloader/badge.svg) - [Run](https://github.com/pdelboca/ckan-extensions-monitor/actions/workflows/.ckanext-xloader.yml)
