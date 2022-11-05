@@ -34,7 +34,6 @@ jobs:
     - name: Clone extension
       run: |
         git clone https://github.com/ckan/ckanext-hierarchy.git
-    - uses: actions/checkout@v3
     - name: Install requirements
       run: |
         cd ckanext-hierarchy
@@ -48,4 +47,6 @@ jobs:
         cd ckanext-hierarchy
         ckan -c test.ini db init
     - name: Run tests
-      run: pytest --ckan-ini=test.ini --disable-warnings ckanext/hierarchy/tests
+      run: |
+        cd ckanext-hierarchy
+        pytest --ckan-ini=test.ini --disable-warnings ckanext/hierarchy/tests

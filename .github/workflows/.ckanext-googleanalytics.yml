@@ -33,7 +33,6 @@ jobs:
     - name: Clone extension
       run: |
         git clone https://github.com/ckan/ckanext-googleanalytics.git
-    - uses: actions/checkout@v2
     - name: Install requirements
       run: |
         cd ckanext-googleanalytics

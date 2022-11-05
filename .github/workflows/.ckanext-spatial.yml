@@ -34,7 +34,6 @@ jobs:
     - name: Clone extension
       run: |
         git clone https://github.com/ckan/ckanext-spatial.git
-    - uses: actions/checkout@v2
     - name: Create Database
       run: |
         psql --host=postgres --username=postgres --command="CREATE USER ckan_default WITH PASSWORD 'pass' NOSUPERUSER NOCREATEDB NOCREATEROLE;"

@@ -34,7 +34,6 @@ jobs:
     - name: Clone extension
       run: |
         git clone https://github.com/okfn/ckanext-showcase.git
-    - uses: actions/checkout@v2
     - name: Install requirements
       run: |
         cd ckanext-showcase
